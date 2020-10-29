@@ -3,7 +3,7 @@
 #include <string.h>
 // DO NOT INCLUDE OTHER LIBRARY!
 
-// Declarations of the two functions you will implement
+// Declarations of the functions you will implement
 // Feel free to declare any helper functions
 void printPuzzle(char** arr, int n);
 void searchPuzzle(char** arr, int n, char** list, int listSize);
